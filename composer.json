@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "rvput\\Ad-Task2\\": "src/"
+            "rvput\\AD-Task-2\\": "src/"
         }
     },
     "authors": [

@@ -5,26 +5,20 @@
 <br />
 <div align="center">
   <a href="https://github.com/RVPutian">
-  <!-- TODO: If you want to add logo or banner you can add it here --> DONE
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <!-- TODO: If you want to add logo or banner you can add it here --> 
+    <img src="./assets/img/ditto.gif" alt="ditto" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project --> DONE
+<!-- TODO: Change Title to the name of the title of your Project --> 
   <h3 align="center">AD TASK 2</h3>
 </div>
-<!-- TODO: Make a short description --> DONE
+<!-- TODO: Make a short description --> 
 <div align="center">
-  This was a Mistake this is AD task 1 but became 2 i have to seperate these 2 later WITH THE POWER OF FRIENDHSIP!!.
-
-  In this AD task there are 2 buttons that will work
-
-  BUTTON 1 - You go Check you're Basic trainer card as a 10 year old immortal child
-
-  BUTTON 2 - you check you're PC pokemons that you will or will never Use!
+  This AD-Task-2 Is my redemption arc from AD-Task-1. This is the continuation of AD-Task-1 that adds in the basics which are (Declarations / Conditionals / Looping). I added in the following (Arrays / Dictionaries / Functions / Fragmentations). I added in different pages for each AD-Task Continuations for "1" it will be the Trainer Card & for "2" it will be the PC.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  --> DONE
+<!-- TODO: Change the zyx-0314 into your github username  --> 
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
 ![](https://visit-counter.vercel.app/counter.png?page=RVPutian/Ad-Task2)
@@ -43,6 +37,9 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
+          <li>
+          <a href ="#Main Features">Main Features</a>
+          <ol>
         <li>
           <a href="#key-components">Key Components</a>
         </li>
@@ -67,7 +64,14 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-AD TASK 2
+## Main Features
+- Modular Components - Header and Footer are included across pages for consistency and maintainability.
+- Multiple Pages - Home page / Trainer Card page / PC page.
+- Dynamic Content - Uses PHP to render content such as trainer details and Pokémon lists.
+- Asset Management - Organized folders for images and stylesheets, both globally and per-page.
+
+
+
 
 ### Key Components
 

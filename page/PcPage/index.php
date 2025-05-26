@@ -4,28 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <title>Pokémon PC</title>
-    <link rel="stylesheet" href="../../assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
     <div class="page-wrapper">
-    <?php include   '../../components/Header.php'; ?>
+    <?php include '../../components/Header.php'; ?>
 
 <?php
 // Array of Pokémon (dictionary: name => [image, type])
 $pokemon_pc = [
     [
         "name" => "Torterra",
-        "image" => "../../assets/img/torterra.gif",
+        "image" => "./assets/img/torterra.gif",
         "type" => "Grass/Ground"
     ],
     [
         "name" => "Honchkrow",
-        "image" => "../../assets/img/honchkrow.gif",
+        "image" => "./assets/img/honchkrow.gif",
         "type" => "Flying/Dark"
     ],
     [
         "name" => "Drapion",
-        "image" => "../.../assets/img/drapion.gif",
+        "image" => "./assets/img/drapion.gif",
         "type" => "Poison"
     ]
 
