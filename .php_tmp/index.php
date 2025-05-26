@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Page 1</title>
-    <link rel="stylesheet" href="assets/css/Card_style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <div class="page-wrapper">
-    <?php include   '../components/Header.php'; ?>
+    <?php include '../../components/Header.php'; ?>
     
     <div class="main-container">
         <!-- Trainer Info -->
@@ -48,7 +48,7 @@
             </div>
         </div>
     </div>
-     <?php include   '../components/Footer.php'; ?>
+     <?php include '../../components/Footer.php'; ?>
     </div>
 </body>
 </html>
