@@ -1,10 +1,9 @@
-
 {
-    "name": "rvput/ad-task2",
+    "name": "rvput/ad-task-2",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "rvput\\AD-Task-2\\": "src/"
+            "Rvput\\AdTask2\\": "src/"
         }
     },
     "authors": [
@@ -13,8 +12,5 @@
             "email": "rvputian2004@gmail.com"
         }
     ],
-    "scripts": {
-        "start": "php -S localhost:8000 router.php"
-    },
     "require": {}
 }
